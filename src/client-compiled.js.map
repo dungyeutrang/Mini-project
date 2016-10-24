@@ -1,0 +1,1 @@
+{"version":3,"sources":["client.js"],"names":[],"mappings":";;AAAA;;;;AACA;;;;;;AAEA,mBAAS,MAAT,CACA;AAAA;AAAA;AAAA;AAAA,CADA,EAEI,SAAS,cAAT,CAAwB,MAAxB,CAFJ","file":"client-compiled.js","sourcesContent":["import React from 'react';\nimport ReactDOM from 'react-dom';\n\nReactDOM.render(\n<h1>Hello, world!</h1>,\n    document.getElementById('root')\n);\n"]}
